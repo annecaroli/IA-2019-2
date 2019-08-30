@@ -43,14 +43,14 @@ chegada, que chamamos, respectivamente, de ponto inicial e ponto final. Nossa im
 Como heurística, escolhemos heurística de Manhattan, que  tem esse nome pois define a menor distância entre quarteirões numa malha urbana reticulada 
 ortogonal, como na própria zona da Cidade de Manhattan, EUA.
 
-![Legenda](url da img)
+![Distância de Manhattan](https://github.com/annecaroli/IA-2019-2/blob/master/Trabalho1/Imagens/dManhattan.png)
 
 Figura 1: Representação da menor distância possível que um carro é capaz de percorrer numa malha urbana reticulada ortogonal
 
 Na figura abaixo, temos a representação de um mapa, onde cada quadrado representa uma coordenada. O quadrado vermelho representa o ponto de partida, o verde o 
 destino e os pretos são os obstáculos.
 
-![Legenda](url da img)
+![Mapa Objetivo](https://github.com/annecaroli/IA-2019-2/blob/master/Trabalho1/Imagens/mapaObjetivo.png)
 
 Figura 2: Exemplo de caminho a ser percorrido pelo algoritmo
 
