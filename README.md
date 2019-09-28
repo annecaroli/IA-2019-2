@@ -1,1 +1,1 @@
-IA-2019-2
+Trabalhos realizados para a disciplina de Inteligência Artificial 2019/2 com o Professor Eduardo Max

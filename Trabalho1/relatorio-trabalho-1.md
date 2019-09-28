@@ -57,9 +57,11 @@ Figura 2: Exemplo de caminho a ser percorrido pelo algoritmo
 ## 4. Implementação<br>
 
 Esse é um algoritmo guloso, em cada iteração ele faz a escolha que parece ser a melhor possível de acordo com algum critério (Best-First Search).
+
 Para ser eficiente, o algoritmo armazena um conjunto de estados não explorados chamado de franja (do inglês, fringe). Inicialmente, a franja possui 
 apenas o estado inicial. Na iteração seguinte, o estado inicial já foi explorado e a partir daí a franja armazena os estados sucessores do estado 
 inicial. Com isso, o algoritmo vai montando um caminho passo-a-passo que permite escolher qual estado está mais próximo da meta.
+
 A linguagem escolhida para a implementação do algoritmo é Python, ela tem ganho popularidade, e é a linguagem que estamos familiarizadas no curso.
 
 ### Trechos mais importantes do código<br>
